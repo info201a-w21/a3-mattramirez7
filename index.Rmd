@@ -28,11 +28,25 @@ I decided to use year, total jail population, black jail population rate, black 
    
   Five questions I am going to use to calculate relevant values are:
 
-What county had the highest number of blacks in jail in the most recent year? Los Angeles County
-What county had the highest number of whites in jail in the most recent year? Maricopa County
-What year had the most number of blacks in Jail in a single county? 1993
-What state had the highest number of whites in jail in the most recent year? Arizona
-What state has the highest number of blacks in jail in the most recent year? California
+What county had the highest number of blacks in jail in the most recent year? 
+
+Los Angeles County
+
+What county had the highest number of whites in jail in the most recent year? 
+
+Maricopa County
+
+What year had the most number of blacks in Jail in a single county? 
+
+1993
+
+What state had the highest number of whites in jail in the most recent year? 
+
+Arizona
+
+What state has the highest number of blacks in jail in the most recent year? 
+
+California
 
   
 ### Trends over time chart
