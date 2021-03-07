@@ -1,7 +1,7 @@
 ---
 title: "A3: Incarceration"
 author: "Matt Ramirez"
-date: "2/21/2021"
+date: "3/7/2021"
 output: html_document
 ---
 
@@ -30,23 +30,32 @@ I decided to use year, total jail population, black jail population rate, black 
 
 What county had the highest number of blacks in jail in the most recent year? 
 
-Los Angeles County
+```{r}
+county_high_blk_jail_pop
+```
 
 What county had the highest number of whites in jail in the most recent year? 
 
-Maricopa County
-
+```{r}
+county_high_wht_jail_pop
+```
 What year had the most number of blacks in Jail in a single county? 
 
-1993
+```{r}
+year_high_blk_jail_pop
+```
 
 What state had the highest number of whites in jail in the most recent year? 
 
-Arizona
+```{r}
+state_high_wht_jail_pop
+```
 
 What state has the highest number of blacks in jail in the most recent year? 
 
-California
+```{r}
+state_high_blk_jail_pop
+```
 
   
 ### Trends over time chart
