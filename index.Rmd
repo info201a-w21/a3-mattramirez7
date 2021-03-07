@@ -30,30 +30,30 @@ I decided to use year, total jail population, black jail population rate, black 
 
 What county had the highest number of blacks in jail in the most recent year? 
 
-```{r}
+```{r, echo=FALSE}
 county_high_blk_jail_pop
 ```
 
 What county had the highest number of whites in jail in the most recent year? 
 
-```{r}
+```{r, echo=FALSE}
 county_high_wht_jail_pop
 ```
 What year had the most number of blacks in Jail in a single county? 
 
-```{r}
+```{r, echo=FALSE}
 year_high_blk_jail_pop
 ```
 
 What state had the highest number of whites in jail in the most recent year? 
 
-```{r}
+```{r, echo=FALSE}
 state_high_wht_jail_pop
 ```
 
 What state has the highest number of blacks in jail in the most recent year? 
 
-```{r}
+```{r, echo=FALSE}
 state_high_blk_jail_pop
 ```
 
@@ -80,4 +80,3 @@ black_jail_pop_rate_map_wa
 ```
 
 Above is a map that shows the black jail population rate in Washington state. I decided to include this because I wanted to see the rate distribution throughout Washington state. From the map, the majority of counties seem to be either yellow or light orange, indicating that the majority of black jail population rates are in the range of 0-2500. However, there are two counties that have rates greater than 4000.
-
